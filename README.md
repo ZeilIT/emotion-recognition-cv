@@ -35,8 +35,3 @@
 
 ### 📌 Примечания
 - Лицо должно быть анфас, хорошее освещение.
-
-### 💻 Локальный запуск
-```bash
-pip install opencv-python deepface
-jupyter notebook emotion_recognition.ipynb
