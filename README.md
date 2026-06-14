@@ -24,7 +24,7 @@
 ### ✅ Рекомендуемый способ – Google Colab (всё работает в браузере)
 
 1. **Откройте блокнот в Colab** по ссылке:  
-   [https://colab.research.google.com/github/ZeillT/emotion-recognition-cv/blob/main/emotion_recognition.ipynb](https://colab.research.google.com/github/ZeillT/emotion-recognition-cv/blob/main/emotion_recognition.ipynb)
+   [https://colab.research.google.com/github/ZeilIT/emotion-recognition-cv/blob/master/emotion_recognition.ipynb](https://colab.research.google.com/github/ZeilIT/emotion-recognition-cv/blob/master/emotion_recognition.ipynb)
 
 2. **Включите GPU** (ускорит работу):  
    Меню → **Среда выполнения** → **Сменить среду выполнения** → выберите `T4 GPU` → **Сохранить**.
