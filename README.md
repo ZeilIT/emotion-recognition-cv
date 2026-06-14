@@ -6,7 +6,7 @@
 ---
 
 ## 🔗 Репозиторий с кодом
-[https://github.com/ZeillT/emotion-recognition-cv](https://github.com/ZeillT/emotion-recognition-cv)
+[https://github.com/ZeilIT/emotion-recognition-cv](https://github.com/ZeilIT/emotion-recognition-cv)
 
 ---
 
