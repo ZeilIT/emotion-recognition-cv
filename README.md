@@ -1,4 +1,4 @@
-# Распознавание эмоций по лицу (Computer Vision)
+# Распознавание эмоций по лицу
 
 Проект для определения эмоции человека на фотографии с помощью глубокого обучения.  
 Поддерживаемые эмоции: **гнев, отвращение, страх, радость, нейтрально, грусть, удивление**.
@@ -19,9 +19,9 @@
 
 ---
 
-## 🧪 Инструкция по воспроизведению результата (Inference)
+## 🧪 Инструкция по воспроизведению результата
 
-### ✅ Рекомендуемый способ – Google Colab (всё работает в браузере)
+### ✅ Рекомендуемый способ - Google Colab (всё работает в браузере)
 
 1. **Откройте блокнот в Colab** по ссылке:  
    [https://colab.research.google.com/github/ZeilIT/emotion-recognition-cv/blob/master/emotion_recognition.ipynb](https://colab.research.google.com/github/ZeilIT/emotion-recognition-cv/blob/master/emotion_recognition.ipynb)
